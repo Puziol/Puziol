@@ -14,4 +14,5 @@ Cientista da Computação apaixonado por dados!
 
 ---
 <br><br><br><br>
+<p align="center">Quantidade de visitas recebidas</p>
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/Puziol/count.svg" /></p>
