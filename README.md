@@ -1,10 +1,9 @@
 ### Olá, eu sou Raphael Puziol! 👋  
-Cientista da Computação apaixonado por dados!
+Cientista da Computação apaixonado por tecnologia!
 
 ---
 - 🔭 Atualmente estou trabalhando em projetos pessoais e construção de portfólio.
-- 🌱 Atualmente estou aprendendo sobre machine learning e aprofundando meus conhecimentos sobre analytics.
-- 👯 Busco colaborar em projetos de Data Science / Analytics.
+- 👯 Busco colaborar em projetos de Data Analytics.
 
 ---
 <a href="https://www.linkedin.com/in/raphaelpuziol/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
